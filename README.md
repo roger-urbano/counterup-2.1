@@ -1,3 +1,3 @@
 # counterup
 CDN: 
-https://cdn.jsdelivr.net/gh/roger-urbano/counterup/
+https://cdn.jsdelivr.net/gh/roger-urbano/counterup/jquery.counterup.js
