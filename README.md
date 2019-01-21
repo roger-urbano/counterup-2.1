@@ -1,3 +1,3 @@
 # counterup
-Contador funciona al hacer scrolling
+CDN: 
 https://cdn.jsdelivr.net/gh/roger-urbano/counterup/
