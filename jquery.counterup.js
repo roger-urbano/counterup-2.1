@@ -117,6 +117,7 @@
                 this.destroy(); //-- Waypoint 3.0 version of triggerOnce
             }, {offset: counter.offset + "%", context: counter.context});
         });
+
     };
 
 })(jQuery);
